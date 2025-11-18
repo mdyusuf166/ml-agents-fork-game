@@ -1,4 +1,4 @@
-# Unity ML-Agents Toolkit
+**# Unity ML-Agents Toolkit
 
 [![docs badge](https://img.shields.io/badge/docs-reference-blue.svg)](https://docs.unity3d.com/Packages/com.unity.ml-agents@latest)
 
